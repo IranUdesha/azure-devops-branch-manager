@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![CI/CD](https://github.com/IranUdesha/azure-devops-branch-manager/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/IranUdesha/azure-devops-branch-manager/actions)
 [![Security Status](https://img.shields.io/badge/security-compliant-green)](https://github.com/IranUdesha/azure-devops-branch-manager/security)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![No Secrets](https://img.shields.io/badge/secrets-none--detected-brightgreen)
