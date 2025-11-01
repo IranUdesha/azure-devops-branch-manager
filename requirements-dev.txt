@@ -1,0 +1,29 @@
+# Development dependencies for Azure DevOps Branch Manager
+# Install with: pip install -r requirements-dev.txt
+
+# Code Quality
+black>=22.0.0                   # Code formatter
+flake8>=4.0.0                   # Linting
+pylint>=2.12.0                  # Static analysis
+isort>=5.10.0                   # Import sorting
+
+# Security
+bandit>=1.7.0                   # Security linting
+safety>=2.0.0                   # Dependency vulnerability scanner
+
+# Testing
+pytest>=7.0.0                   # Testing framework
+pytest-cov>=4.0.0               # Coverage reporting
+pytest-mock>=3.6.0              # Mocking support
+
+# Documentation
+sphinx>=4.0.0                   # Documentation generator
+sphinx-rtd-theme>=1.0.0         # ReadTheDocs theme
+
+# Development tools
+pre-commit>=2.15.0               # Git hooks
+tox>=3.24.0                     # Testing across environments
+
+# Type checking
+mypy>=0.910                     # Static type checker
+types-requests>=2.25.0          # Type stubs for requests
